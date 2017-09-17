@@ -62,5 +62,5 @@
 
 * [xdlinux社区宣言](http://linux.xidian.edu.cn/static/xdlinux.html)
 * [GitHub xdlinux-history](https://github.com/xdlinux/xdlinux-history)
-* [西电开源社区发展史](http://xdlinux.info/bbs/forum.php?mod=viewthread&tid=119&extra=page%3D1)
-* [【整理贴】西电开源社区简史与开篇宣言](http://xdlinux.info/bbs/forum.php?mod=viewthread&tid=1240&extra=page%3D1)
+* [~~西电开源社区发展史~~](http://xdlinux.info/bbs/forum.php?mod=viewthread&tid=119&extra=page%3D1)
+* [~~【整理贴】西电开源社区简史与开篇宣言~~](http://xdlinux.info/bbs/forum.php?mod=viewthread&tid=1240&extra=page%3D1)
