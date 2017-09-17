@@ -11,13 +11,13 @@
 
 社区倡导平等、开放、自由。社区努力为每一个酷爱技术的人提供良好的探索环境，使其兴趣得到充分发展。
 
-* 团队首页: linux.xidian.edu.cn / xdlinux.info  
-* 成立时间: 2008年夏  
-* 成立宣言：  
-  * 不作恶  
-  * 永远的 Beta 版  
-  * 不世俗  
-  * 自由、包容、多样  
+* 团队首页: linux.xidian.edu.cn / xdlinux.info
+* 成立时间: 2008年夏
+* 成立宣言:
+  * 不作恶
+  * 永远的 Beta 版
+  * 不世俗
+  * 自由、包容、多样
 * 团队目标: 建立一个良好的开源软件技术交流平台
 * 团队口号: 对于知识，我们永不满足
 * 合作单位: IBM
@@ -60,7 +60,7 @@
 
 ## 资料来源
 
-[xdlinux社区宣言](http://linux.xidian.edu.cn/static/xdlinux.html)  
-[GitHub xdlinux-histry](https://github.com/xdlinux/xdlinux-history)  
-[西电开源社区发展史](http://xdlinux.info/bbs/forum.php?mod=viewthread&tid=119&extra=page%3D1)  
-[【整理贴】西电开源社区简史与开篇宣言](http://xdlinux.info/bbs/forum.php?mod=viewthread&tid=1240&extra=page%3D1)
+* [xdlinux社区宣言](http://linux.xidian.edu.cn/static/xdlinux.html)
+* [GitHub xdlinux-history](https://github.com/xdlinux/xdlinux-history)
+* [西电开源社区发展史](http://xdlinux.info/bbs/forum.php?mod=viewthread&tid=119&extra=page%3D1)
+* [【整理贴】西电开源社区简史与开篇宣言](http://xdlinux.info/bbs/forum.php?mod=viewthread&tid=1240&extra=page%3D1)
