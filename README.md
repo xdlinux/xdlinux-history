@@ -24,8 +24,13 @@
 * 团队口号: 对于知识，我们永不满足
 * 合作单位: IBM（2009年暑假至2016年11月）
 * 指导老师: 西电电子工程学院李隐峰老师
-* 主要服务: 校内软件源
-* 主要活动: 自由软件日 / Hacking Thursday / 自发的主题演讲
+* 主要服务:
+  * [校内软件源](https://mirrors.xdlinux.info)
+  * [Git代码托管](https://git.xdlinux.info)
+* 主要活动:
+  * 自由软件日
+  * Hacking Thursday
+  * 自发的主题演讲
 
 ## 历史回顾
 
