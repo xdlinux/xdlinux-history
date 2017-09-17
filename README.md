@@ -11,7 +11,9 @@
 
 社区倡导平等、开放、自由。社区努力为每一个酷爱技术的人提供良好的探索环境，使其兴趣得到充分发展。
 
-* 团队首页: linux.xidian.edu.cn / xdlinux.info
+* 团队首页:
+  * [linux.xidian.edu.cn](http://linux.xidian.edu.cn)
+  * [xdlinux.info](https://xdlinux.info)
 * 成立时间: 2008年夏
 * 成立宣言:
   * 不作恶
