@@ -11,19 +11,26 @@
 
 社区倡导平等、开放、自由。社区努力为每一个酷爱技术的人提供良好的探索环境，使其兴趣得到充分发展。
 
-* 团队首页: linux.xidian.edu.cn / xdlinux.info  
-* 成立时间: 2008年夏  
-* 成立宣言：  
-  * 不作恶  
-  * 永远的 Beta 版  
-  * 不世俗  
-  * 自由、包容、多样  
+* 团队首页:
+  * [linux.xidian.edu.cn](http://linux.xidian.edu.cn)
+  * [xdlinux.info](https://xdlinux.info)
+* 成立时间: 2008年夏
+* 成立宣言:
+  * 不作恶
+  * 永远的 Beta 版
+  * 不世俗
+  * 自由、包容、多样
 * 团队目标: 建立一个良好的开源软件技术交流平台
 * 团队口号: 对于知识，我们永不满足
-* 合作单位: IBM
+* 合作单位: IBM（2009年暑假至2016年11月）
 * 指导老师: 西电电子工程学院李隐峰老师
-* 主要服务: 校内软件源
-* 主要活动: 自由软件日 / Hacking Thursday / 自发的主题演讲
+* 主要服务:
+  * [校内软件源](https://mirrors.xdlinux.info)
+  * [Git代码托管](https://git.xdlinux.info)
+* 主要活动:
+  * 自由软件日
+  * Hacking Thursday
+  * 自发的主题演讲
 
 ## 历史回顾
 
@@ -45,6 +52,16 @@
 2014.09 | 自由软件日，负责人曹丰宇。
 2015夏 | 主要活动形式变更，改为随机发起的讲座。
 2015.09 | 自由软件日，负责人周默。
+2016.09 | 自由软件日，负责人付林。
+2016.09 | 与百度俱乐部、腾讯俱乐部一起办活动。
+2016.11 | IBM 在西电成立了新的 IBM 俱乐部，与 IBM 合作宣告结束，与 IBM 俱乐部关系友好。
+2016.12.24 | 西电开源社区软件源启用新主页。
+2017.01 | E-II 523 被学校收回，失去了常备活动室。
+2017.03 | 活动暂时借用百度俱乐部的 G543。
+2017.06 | 红帽开源分享日直播。
+2017.07 | 暑假计划，负责人陈凯杰。
+2017.07 | 重建了 wiki 和 论坛，新增 git 代码托管。
+2017.09 | 开始在图书馆研讨室举办每周小聚。
 
 ## 往届成员
 
@@ -55,12 +72,13 @@
 2011 | 刘森辕，徐恺元，穆飞扬，兰颢
 2012 | 曹丰宇，李明亮，龚宇鹏，聂其瑞
 2013 | 周默，尚宇，刘曜，王宇恒，黄一帆，刘昊，张佳辰，王碗丽，李雅颂，马子元，李琳，张金迪，莫小柒，李格非
-2014 | 付林，丰一帆，李荇，张碧莹，刘昱，梁凯，丁志伟，焦志润，杜岳峰
-2015 | 陈凯杰，李首正，沈昊，陈宇，余天焕，杨超，朱家豪，蒋天舒，林力强，李艺丁,晋宇飞，李嘉辉
+2014 | 付林，丰一帆，李荇，张碧莹，刘昱，梁凯，丁志伟，焦志润，杜岳峰，王昊宇，胡朔昱，谢锦源，邓子壮，杨文强
+2015 | 陈凯杰，李首正，沈昊，陈宇，余天焕，杨超，朱家豪，蒋天舒，林力强，李艺丁，晋宇飞，李嘉辉，刘志彬，张心语
+2016 | 王滋涵，武冠群，王明亮，黎耀朗，程嘉毅，刘靖山
 
 ## 资料来源
 
-[xdlinux社区宣言](http://linux.xidian.edu.cn/static/xdlinux.html)  
-[GitHub xdlinux-histry](https://github.com/xdlinux/xdlinux-history)  
-[西电开源社区发展史](http://xdlinux.info/bbs/forum.php?mod=viewthread&tid=119&extra=page%3D1)  
-[【整理贴】西电开源社区简史与开篇宣言](http://xdlinux.info/bbs/forum.php?mod=viewthread&tid=1240&extra=page%3D1)
+* [xdlinux社区宣言](http://linux.xidian.edu.cn/static/xdlinux.html)
+* [GitHub xdlinux-history](https://github.com/xdlinux/xdlinux-history)
+* [~~西电开源社区发展史~~](http://xdlinux.info/bbs/forum.php?mod=viewthread&tid=119&extra=page%3D1)
+* [~~【整理贴】西电开源社区简史与开篇宣言~~](http://xdlinux.info/bbs/forum.php?mod=viewthread&tid=1240&extra=page%3D1)
