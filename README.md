@@ -25,8 +25,8 @@
 * 合作单位: IBM（2009年暑假至2016年11月）
 * 指导老师: 西电电子工程学院李隐峰老师
 * 主要服务:
-  * [校内软件源](https://mirrors.xdlinux.info)
-  * [Git代码托管](https://git.xdlinux.info)
+  * [校内软件源](https://linux.xidian.edu.cn/mirrors)
+  * [Git代码托管](https://linux.xidian.edu.cn/git)
 * 主要活动:
   * 自由软件日
   * Hacking Thursday
@@ -62,6 +62,7 @@
 2017.07 | 暑假计划，负责人陈凯杰。
 2017.07 | 重建了 wiki 和 论坛，新增 git 代码托管。
 2017.09 | 开始在图书馆研讨室举办每周小聚。
+2017.09.30 | 应工信部要求，停止将 xdlinux.info 指向 246。
 
 ## 往届成员
 
